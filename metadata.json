@@ -1,0 +1,6 @@
+{
+  "name": "AI Variable Namer",
+  "description": "Get English variable and constant name suggestions based on your Vietnamese descriptions, styled for common coding conventions. Uses Gemini API for suggestions.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
